@@ -21,4 +21,4 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)</br>
 
 ## Contact me:
-[![Microsoft_Outlook](https://img.shields.io/badge/Diego_Romero-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010)](diego.romero15@outlook.com)
+![Microsoft_Outlook](https://img.shields.io/badge/diego.romero15@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&labelColor=101010)
